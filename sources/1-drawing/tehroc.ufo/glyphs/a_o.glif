@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_o" format="2">
+	<advance width="790"/>
+	<unicode hex="F1130"/>
+	<outline>
+		<contour>
+			<point x="716" y="452" type="line"/>
+			<point x="740" y="452" type="line"/>
+			<point x="734" y="476" type="line"/>
+			<point x="633" y="500" type="line"/>
+			<point x="638" y="476" type="line"/>
+			<point x="538" y="500" type="line"/>
+			<point x="543" y="476" type="line"/>
+			<point x="442" y="500" type="line"/>
+			<point x="448" y="476" type="line"/>
+			<point x="347" y="500" type="line"/>
+			<point x="353" y="476" type="line"/>
+			<point x="252" y="500" type="line"/>
+			<point x="257" y="476" type="line"/>
+			<point x="157" y="500" type="line"/>
+			<point x="164" y="476" type="line"/>
+			<point x="62" y="500" type="line"/>
+			<point x="74" y="453" type="line"/>
+			<point x="50" y="453" type="line"/>
+			<point x="62" y="404" type="line"/>
+			<point x="164" y="380" type="line"/>
+			<point x="157" y="404" type="line"/>
+			<point x="257" y="380" type="line"/>
+			<point x="252" y="404" type="line"/>
+			<point x="341" y="429" type="line"/>
+			<point x="359" y="357" type="line"/>
+			<point x="336" y="357" type="line"/>
+			<point x="353" y="287" type="line"/>
+			<point x="252" y="309" type="line"/>
+			<point x="245" y="337" type="line"/>
+			<point x="157" y="309" type="line"/>
+			<point x="164" y="286" type="line"/>
+			<point x="62" y="309" type="line"/>
+			<point x="74" y="262" type="line"/>
+			<point x="50" y="263" type="line"/>
+			<point x="74" y="167" type="line"/>
+			<point x="50" y="167" type="line"/>
+			<point x="74" y="72" type="line"/>
+			<point x="50" y="72" type="line"/>
+			<point x="62" y="24" type="line"/>
+			<point x="164" y="0" type="line"/>
+			<point x="157" y="24" type="line"/>
+			<point x="257" y="0" type="line"/>
+			<point x="240" y="72" type="line"/>
+			<point x="263" y="72" type="line"/>
+			<point x="257" y="96" type="line"/>
+			<point x="157" y="120" type="line"/>
+			<point x="146" y="167" type="line"/>
+			<point x="169" y="167" type="line"/>
+			<point x="157" y="214" type="line"/>
+			<point x="246" y="238" type="line"/>
+			<point x="253" y="214" type="line"/>
+			<point x="341" y="238" type="line"/>
+			<point x="359" y="167" type="line"/>
+			<point x="336" y="167" type="line"/>
+			<point x="359" y="72" type="line"/>
+			<point x="336" y="72" type="line"/>
+			<point x="347" y="24" type="line"/>
+			<point x="448" y="0" type="line"/>
+			<point x="442" y="24" type="line"/>
+			<point x="543" y="0" type="line"/>
+			<point x="538" y="23" type="line"/>
+			<point x="626" y="48" type="line"/>
+			<point x="620" y="72" type="line"/>
+			<point x="644" y="72" type="line"/>
+			<point x="633" y="120" type="line"/>
+			<point x="722" y="143" type="line"/>
+			<point x="716" y="166" type="line"/>
+			<point x="740" y="166" type="line"/>
+			<point x="716" y="261" type="line"/>
+			<point x="740" y="261" type="line"/>
+			<point x="716" y="356" type="line"/>
+			<point x="740" y="356" type="line"/>
+		</contour>
+		<contour>
+			<point x="644" y="262" type="line"/>
+			<point x="620" y="263" type="line"/>
+			<point x="644" y="167" type="line"/>
+			<point x="620" y="167" type="line"/>
+			<point x="626" y="143" type="line"/>
+			<point x="538" y="120" type="line"/>
+			<point x="543" y="96" type="line"/>
+			<point x="442" y="120" type="line"/>
+			<point x="430" y="167" type="line"/>
+			<point x="454" y="167" type="line"/>
+			<point x="430" y="263" type="line"/>
+			<point x="454" y="262" type="line"/>
+			<point x="430" y="357" type="line"/>
+			<point x="454" y="357" type="line"/>
+			<point x="442" y="404" type="line"/>
+			<point x="532" y="429" type="line"/>
+			<point x="538" y="404" type="line"/>
+			<point x="626" y="429" type="line"/>
+			<point x="644" y="357" type="line"/>
+			<point x="620" y="357" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-04-21 15:37:27 +0000</string>
+		</dict>
+	</lib>
+</glyph>

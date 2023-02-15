@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+	<advance width="403"/>
+	<unicode hex="005F"/>
+	<note>
+		underscore
+	</note>
+	<outline>
+		<contour>
+			<point x="303" y="-95" type="line"/>
+			<point x="202" y="-71" type="line"/>
+			<point x="208" y="-95" type="line"/>
+			<point x="107" y="-71" type="line"/>
+			<point x="113" y="-95" type="line"/>
+			<point x="12" y="-71" type="line"/>
+			<point x="0" y="-24" type="line"/>
+			<point x="24" y="-24" type="line"/>
+			<point x="12" y="24" type="line"/>
+			<point x="113" y="0" type="line"/>
+			<point x="107" y="24" type="line"/>
+			<point x="208" y="0" type="line"/>
+			<point x="202" y="24" type="line"/>
+			<point x="303" y="0" type="line"/>
+			<point x="296" y="24" type="line"/>
+			<point x="397" y="0" type="line"/>
+			<point x="403" y="-24" type="line"/>
+			<point x="379" y="-24" type="line"/>
+			<point x="397" y="-95" type="line"/>
+			<point x="296" y="-71" type="line"/>
+		</contour>
+	</outline>
+</glyph>

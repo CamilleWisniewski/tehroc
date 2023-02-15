@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.001" format="2">
+	<advance width="189"/>
+	<note>
+		exclamdown
+	</note>
+	<outline>
+		<contour>
+			<point x="42" y="500" type="line"/>
+			<point x="143" y="476" type="line"/>
+			<point x="149" y="453" type="line"/>
+			<point x="125" y="452" type="line"/>
+			<point x="143" y="381" type="line"/>
+			<point x="42" y="404" type="line"/>
+			<point x="30" y="452" type="line"/>
+			<point x="54" y="453" type="line"/>
+		</contour>
+		<contour>
+			<point x="42" y="309" type="line"/>
+			<point x="131" y="333" type="line"/>
+			<point x="149" y="262" type="line"/>
+			<point x="125" y="262" type="line"/>
+			<point x="149" y="167" type="line"/>
+			<point x="125" y="167" type="line"/>
+			<point x="149" y="71" type="line"/>
+			<point x="125" y="71" type="line"/>
+			<point x="143" y="0" type="line"/>
+			<point x="42" y="24" type="line"/>
+			<point x="30" y="71" type="line"/>
+			<point x="53" y="71" type="line"/>
+			<point x="30" y="167" type="line"/>
+			<point x="53" y="167" type="line"/>
+			<point x="30" y="262" type="line"/>
+			<point x="53" y="262" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-04-19 21:10:57 +0000</string>
+		</dict>
+	</lib>
+</glyph>

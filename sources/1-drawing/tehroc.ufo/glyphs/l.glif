@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+	<advance width="340"/>
+	<unicode hex="006C"/>
+	<note>
+		l
+	</note>
+	<outline>
+		<contour>
+			<point x="77" y="500" type="line"/>
+			<point x="178" y="476" type="line"/>
+			<point x="184" y="453" type="line"/>
+			<point x="161" y="452" type="line"/>
+			<point x="184" y="357" type="line"/>
+			<point x="161" y="357" type="line"/>
+			<point x="184" y="262" type="line"/>
+			<point x="161" y="262" type="line"/>
+			<point x="184" y="167" type="line"/>
+			<point x="161" y="167" type="line"/>
+			<point x="172" y="119" type="line"/>
+			<point x="262" y="143" type="line"/>
+			<point x="280" y="71" type="line"/>
+			<point x="256" y="71" type="line"/>
+			<point x="262" y="48" type="line"/>
+			<point x="172" y="24" type="line"/>
+			<point x="178" y="0" type="line"/>
+			<point x="77" y="24" type="line"/>
+			<point x="65" y="71" type="line"/>
+			<point x="89" y="71" type="line"/>
+			<point x="65" y="167" type="line"/>
+			<point x="89" y="167" type="line"/>
+			<point x="65" y="262" type="line"/>
+			<point x="89" y="262" type="line"/>
+			<point x="65" y="357" type="line"/>
+			<point x="89" y="357" type="line"/>
+			<point x="65" y="452" type="line"/>
+			<point x="89" y="453" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-14 21:09:55 +0000</string>
+		</dict>
+	</lib>
+</glyph>

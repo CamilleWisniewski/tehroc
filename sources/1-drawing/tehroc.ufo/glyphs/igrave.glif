@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+	<advance width="284"/>
+	<unicode hex="00EC"/>
+	<note>
+		igrave
+	</note>
+	<outline>
+		<contour>
+			<point x="53" y="405" type="line"/>
+			<point x="41" y="453" type="line"/>
+			<point x="64" y="453" type="line"/>
+			<point x="53" y="500" type="line"/>
+			<point x="153" y="476" type="line"/>
+			<point x="159" y="453" type="line"/>
+			<point x="136" y="453" type="line"/>
+			<point x="148" y="405" type="line"/>
+			<point x="249" y="381" type="line"/>
+			<point x="254" y="358" type="line"/>
+			<point x="231" y="358" type="line"/>
+			<point x="248" y="286" type="line"/>
+			<point x="148" y="310" type="line"/>
+			<point x="136" y="358" type="line"/>
+			<point x="159" y="358" type="line"/>
+			<point x="153" y="381" type="line"/>
+		</contour>
+		<contour>
+			<point x="41" y="167" type="line"/>
+			<point x="64" y="167" type="line"/>
+			<point x="40" y="263" type="line"/>
+			<point x="63" y="263" type="line"/>
+			<point x="52" y="310" type="line"/>
+			<point x="153" y="286" type="line"/>
+			<point x="159" y="262" type="line"/>
+			<point x="136" y="262" type="line"/>
+			<point x="159" y="167" type="line"/>
+			<point x="136" y="167" type="line"/>
+			<point x="160" y="72" type="line"/>
+			<point x="136" y="71" type="line"/>
+			<point x="154" y="0" type="line"/>
+			<point x="53" y="24" type="line"/>
+			<point x="41" y="73" type="line"/>
+			<point x="65" y="73" type="line"/>
+		</contour>
+	</outline>
+</glyph>

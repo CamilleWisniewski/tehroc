@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+	<advance width="580"/>
+	<unicode hex="0174"/>
+	<note>
+		Wcircumflex
+	</note>
+	<outline>
+		<contour>
+			<point x="147" y="309" type="line"/>
+			<point x="237" y="333" type="line"/>
+			<point x="231" y="357" type="line"/>
+			<point x="254" y="357" type="line"/>
+			<point x="243" y="405" type="line"/>
+			<point x="344" y="381" type="line"/>
+			<point x="350" y="357" type="line"/>
+			<point x="326" y="357" type="line"/>
+			<point x="338" y="309" type="line"/>
+			<point x="427" y="333" type="line"/>
+			<point x="421" y="357" type="line"/>
+			<point x="445" y="357" type="line"/>
+			<point x="427" y="429" type="line"/>
+			<point x="338" y="405" type="line"/>
+			<point x="326" y="452" type="line"/>
+			<point x="350" y="452" type="line"/>
+			<point x="344" y="476" type="line"/>
+			<point x="243" y="500" type="line"/>
+			<point x="254" y="452" type="line"/>
+			<point x="231" y="452" type="line"/>
+			<point x="237" y="429" type="line"/>
+			<point x="147" y="405" type="line"/>
+			<point x="159" y="357" type="line"/>
+			<point x="135" y="357" type="line"/>
+		</contour>
+		<contour>
+			<point x="338" y="24" type="line"/>
+			<point x="439" y="0" type="line"/>
+			<point x="433" y="24" type="line"/>
+			<point x="522" y="48" type="line"/>
+			<point x="516" y="72" type="line"/>
+			<point x="540" y="71" type="line"/>
+			<point x="516" y="167" type="line"/>
+			<point x="540" y="167" type="line"/>
+			<point x="516" y="262" type="line"/>
+			<point x="540" y="262" type="line"/>
+			<point x="534" y="286" type="line"/>
+			<point x="433" y="309" type="line"/>
+			<point x="445" y="262" type="line"/>
+			<point x="421" y="262" type="line"/>
+			<point x="445" y="167" type="line"/>
+			<point x="421" y="167" type="line"/>
+			<point x="439" y="95" type="line"/>
+			<point x="338" y="119" type="line"/>
+			<point x="325" y="167" type="line"/>
+			<point x="349" y="167" type="line"/>
+			<point x="326" y="262" type="line"/>
+			<point x="349" y="262" type="line"/>
+			<point x="343" y="286" type="line"/>
+			<point x="242" y="309" type="line"/>
+			<point x="254" y="262" type="line"/>
+			<point x="230" y="262" type="line"/>
+			<point x="254" y="167" type="line"/>
+			<point x="230" y="167" type="line"/>
+			<point x="248" y="95" type="line"/>
+			<point x="147" y="119" type="line"/>
+			<point x="135" y="167" type="line"/>
+			<point x="159" y="167" type="line"/>
+			<point x="135" y="262" type="line"/>
+			<point x="159" y="262" type="line"/>
+			<point x="153" y="286" type="line"/>
+			<point x="52" y="309" type="line"/>
+			<point x="64" y="262" type="line"/>
+			<point x="40" y="262" type="line"/>
+			<point x="64" y="167" type="line"/>
+			<point x="40" y="167" type="line"/>
+			<point x="64" y="71" type="line"/>
+			<point x="40" y="71" type="line"/>
+			<point x="52" y="24" type="line"/>
+			<point x="141" y="48" type="line"/>
+			<point x="147" y="24" type="line"/>
+			<point x="248" y="0" type="line"/>
+			<point x="242" y="24" type="line"/>
+			<point x="332" y="48" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-09 13:37:49 +0000</string>
+		</dict>
+	</lib>
+</glyph>

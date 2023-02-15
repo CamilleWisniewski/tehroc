@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c_q" format="2">
+	<advance width="390"/>
+	<unicode hex="F1540"/>
+	<outline>
+		<contour>
+			<point x="147" y="213" type="line"/>
+			<point x="141" y="238" type="line"/>
+			<point x="52" y="213" type="line"/>
+			<point x="40" y="261" type="line"/>
+			<point x="64" y="261" type="line"/>
+			<point x="40" y="357" type="line"/>
+			<point x="64" y="357" type="line"/>
+			<point x="52" y="405" type="line"/>
+			<point x="141" y="428" type="line"/>
+			<point x="135" y="452" type="line"/>
+			<point x="159" y="452" type="line"/>
+			<point x="147" y="500" type="line"/>
+			<point x="249" y="476" type="line"/>
+			<point x="242" y="500" type="line"/>
+			<point x="344" y="476" type="line"/>
+			<point x="350" y="452" type="line"/>
+			<point x="327" y="452" type="line"/>
+			<point x="332" y="428" type="line"/>
+			<point x="242" y="405" type="line"/>
+			<point x="236" y="428" type="line"/>
+			<point x="147" y="405" type="line"/>
+			<point x="159" y="357" type="line"/>
+			<point x="135" y="357" type="line"/>
+			<point x="147" y="309" type="line"/>
+			<point x="248" y="285" type="line"/>
+			<point x="242" y="309" type="line"/>
+			<point x="344" y="285" type="line"/>
+			<point x="350" y="261" type="line"/>
+			<point x="327" y="261" type="line"/>
+			<point x="350" y="165" type="line"/>
+			<point x="327" y="165" type="line"/>
+			<point x="350" y="70" type="line"/>
+			<point x="327" y="71" type="line"/>
+			<point x="344" y="0" type="line"/>
+			<point x="243" y="23" type="line"/>
+			<point x="231" y="71" type="line"/>
+			<point x="254" y="72" type="line"/>
+			<point x="231" y="165" type="line"/>
+			<point x="255" y="165" type="line"/>
+			<point x="236" y="239" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-04-20 13:51:29 +0000</string>
+		</dict>
+	</lib>
+</glyph>

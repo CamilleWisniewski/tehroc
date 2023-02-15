@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+	<advance width="396"/>
+	<unicode hex="0074"/>
+	<note>
+		t
+	</note>
+	<outline>
+		<contour>
+			<point x="356" y="69" type="line"/>
+			<point x="340" y="136" type="line"/>
+			<point x="253" y="114" type="line"/>
+			<point x="260" y="91" type="line"/>
+			<point x="163" y="114" type="line"/>
+			<point x="152" y="159" type="line"/>
+			<point x="174" y="159" type="line"/>
+			<point x="152" y="249" type="line"/>
+			<point x="174" y="249" type="line"/>
+			<point x="161" y="296" type="line"/>
+			<point x="248" y="318" type="line"/>
+			<point x="253" y="296" type="line"/>
+			<point x="338" y="318" type="line"/>
+			<point x="334" y="341" type="line"/>
+			<point x="356" y="341" type="line"/>
+			<point x="338" y="408" type="line"/>
+			<point x="253" y="386" type="line"/>
+			<point x="248" y="408" type="line"/>
+			<point x="161" y="386" type="line"/>
+			<point x="150" y="432" type="line"/>
+			<point x="174" y="432" type="line"/>
+			<point x="157" y="500" type="line"/>
+			<point x="71" y="477" type="line"/>
+			<point x="83" y="432" type="line"/>
+			<point x="60" y="432" type="line"/>
+			<point x="71" y="386" type="line"/>
+			<point x="168" y="363" type="line"/>
+			<point x="174" y="341" type="line"/>
+			<point x="150" y="341" type="line"/>
+			<point x="157" y="318" type="line"/>
+			<point x="71" y="296" type="line"/>
+			<point x="83" y="249" type="line"/>
+			<point x="60" y="249" type="line"/>
+			<point x="83" y="159" type="line"/>
+			<point x="60" y="159" type="line"/>
+			<point x="83" y="69" type="line"/>
+			<point x="60" y="69" type="line"/>
+			<point x="71" y="22" type="line"/>
+			<point x="168" y="0" type="line"/>
+			<point x="163" y="22" type="line"/>
+			<point x="248" y="46" type="line"/>
+			<point x="253" y="22" type="line"/>
+			<point x="340" y="46" type="line"/>
+			<point x="334" y="69" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-03-14 21:14:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>
