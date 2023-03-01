@@ -1,30 +1,26 @@
-FONTLOG for Demo
+FONTLOG for Tehroc
 -------------------
 
-This file provides detailed information on the Demo font software.
-This information should be distributed along with the Demo fonts
+This file provides detailed information on the Tehroc font software.
+This information should be distributed along with the Tehroc fonts
 and any derivative works.
 
 
 Basic Font Information
 --------------------------
 
-(Here is where you would describe the purpose and brief specifications for the
-font project, and where users can find more detailed documentation. It can also
-include references to how changes can be contributed back to the Original
-Version. You may also wish to include a short guide to the design, or a
-reference to such a document.) 
+Tehroc is a typeface based on the Tunisian crochet stitch grid.
 
-Security and Integrity
--------------------------
+Information for Contributors
+--------------------------
 
-The following signatures are valid for the source files and the final pdf:
+Tehroc is released under the OFL 1.1 - http://scripts.sil.org/OFL
 
-SHA256: TODO
+For information on what you're allowed to change or modify, consult the LICENSE.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
 
-As you can see in the corresponding SHA256sum.txt file.
+Acknowledgements
+--------------------------
 
-You can check that the originator of the signature is actually who he said he
-is by using the following GPG public key:
+When you make modifications, be sure to add your name (N), email (E), web-address (W) and description (D). This list is sorted by last name in alphabetical order.
 
-TODO
+N: Camille Wisniewski E: camille.wisniewski@gmail.com W: camillewisniewski.fr D: Designer
