@@ -1,5 +1,5 @@
 # Tehroc
-Typographie basée sur la grille du point tunisien au crochet.
+Tehroc is a typeface based on the Tunisian crochet stitch grid.
 
 ## License
 
