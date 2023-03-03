@@ -1,6 +1,10 @@
 # Tehroc
 Tehroc is a typeface based on the Tunisian crochet stitch grid.
 
+## Specimen
+![Specimen 1](https://github.com/CamilleWisniewski/tehroc/blob/main/documentation/tehroc-glyphset.jpg)
+![Specimen 2](https://github.com/CamilleWisniewski/tehroc/blob/main/documentation/tehroc-ligatures.jpg)
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. 
